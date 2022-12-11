@@ -21,5 +21,5 @@ router.get('/list', async (req: Request, res: Response) => {
 
 // 启动服务
 app.listen(3333,()=>{
-    console.log('success server http://localhost:3333')
+    console.log('success server runs on http://localhost:3333')
 })
