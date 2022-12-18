@@ -38,9 +38,6 @@ onMounted(async () => {
 })
 </script>
 <style lang="less" scoped>
-.box-right {
-  width: 450px;
-}
 .table {
   width: 100%;
   background: #212028;
